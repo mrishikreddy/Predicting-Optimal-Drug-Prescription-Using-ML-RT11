@@ -8,9 +8,6 @@ Welcome to the **Drug Classification with Decision Trees** project, a Python-bas
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - **Data Preprocessing**: Encodes categorical variables (sex, blood pressure, cholesterol) for model compatibility.
@@ -104,30 +101,5 @@ The dataset (`drug200.csv`) contains patient data with the following columns:
 - `Drug`: Target drug (e.g., drugA, drugB, drugC, drugX, drugY).
 
 Source: [IBM Developer Skills Network](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv).
-
-## Contributing
-We welcome contributions to enhance the **Drug Classification with Decision Trees** project! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-**Ideas for Contributions**:
-- Add support for other classifiers (e.g., random forest, logistic regression).
-- Implement cross-validation for more robust evaluation.
-- Add feature importance analysis or additional visualizations (e.g., confusion matrix).
-- Include interactive input for predicting drugs for new patients.
-- Optimize the decision tree with hyperparameter tuning (e.g., grid search).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Thanks to the IBM Developer Skills Network for providing the dataset.
-- Built with ❤️ using Python, NumPy, Pandas, Scikit-learn, and Matplotlib.
-- Appreciation to the open-source community for tools and inspiration.
-
----
 
 Dive into the **Drug Classification with Decision Trees** project and explore machine learning! If you have questions, suggestions, or issues, please open an issue on GitHub. Happy learning!
