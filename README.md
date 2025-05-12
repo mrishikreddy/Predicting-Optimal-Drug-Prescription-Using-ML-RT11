@@ -2,6 +2,8 @@
 
 Welcome to the **Predicting Optimal Drug Prescription Using ML** project, a Python-based machine learning application that predicts the appropriate drug for a patient based on their age, sex, blood pressure, cholesterol levels, and sodium-to-potassium ratio. Using a decision tree classifier, this project demonstrates how to preprocess data, train a model, and visualize the decision-making process. It's an excellent resource for learning classification techniques and decision tree modeling.
 
+[Visit Live Project](https://colab.research.google.com/drive/1oF5vbfqdABzsKqvsjLpIRTJ8Km_acHvd?usp=sharing)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
