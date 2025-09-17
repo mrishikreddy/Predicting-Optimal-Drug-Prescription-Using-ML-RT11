@@ -24,7 +24,7 @@ To set up the **Drug Classification with Decision Trees** project, follow these 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/drug-classification.git
+   git clone https://github.com/mrishikreddy/Predicting-Optimal-Drug-Prescription-Using-ML-RT11.git
    cd drug-classification
    ```
 
